@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myapp-fe77b": {
+      "hosting": {
+        "myApp": [
+          "myapp-fe77b"
+        ]
+      }
+    }
+  }
+}
